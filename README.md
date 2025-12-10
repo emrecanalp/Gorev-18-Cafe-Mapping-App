@@ -60,11 +60,11 @@ Harita tabanli bir cafe kesif uygulamasi.
 ## Development Build
 
 iOS icin:
-
+npm i
 npx expo run:ios
 
 Android icin:
-
+npm i
 npx expo run:android
 
 ## Ekran Goruntuleri
